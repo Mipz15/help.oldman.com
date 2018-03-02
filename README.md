@@ -28,7 +28,7 @@ body {background: url("https://static.independent.co.uk/s3fs-public/thumbnails/i
 <h2>Почта</h2></br>
 <a href=https://mail.ru><strong>Mail Почта</strong></a></br>
 <a href=https://mail.google.com><strong>Gmail.com</strong></a></br>
-<a href=https://https://mail.yandex.ru><strong>Яндекс Почта</strong></a>
+<a href=https://mail.yandex.ru><strong>Яндекс Почта</strong></a>
 <div class="col-md-15">
 </div>
 </div>
