@@ -27,8 +27,8 @@ body {background: url("https://static.independent.co.uk/s3fs-public/thumbnails/i
 <img src="http://www.kirovsk.by/wp-content/uploads/2016/02/e-mail-icon.jpg" width="65px"/></br>
 <h2>Почта</h2></br>
 <a href=https://mail.ru><strong>Mail Почта</strong></a></br>
-<a href=https://gmail.ru><strong>Gmail.com</strong></a></br>
-<a href=https://yandexmail.ru><strong>Яндекс Почта</strong></a>
+<a href=https://mail.google.com><strong>Gmail.com</strong></a></br>
+<a href=https://https://passport.yandex.ru/profile/upgrade?from=mail&origin=hostroot_homer_auth_v3_ru&retpath=https%3A%2F%2Fmail.yandex.ru%2F%3Fclid%3D2270456%26win%3D317><strong>Яндекс Почта</strong></a>
 <div class="col-md-15">
 </div>
 </div>
